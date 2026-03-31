@@ -30,7 +30,7 @@ DevOps & Tools: Docker, CI/CD, Git
 📜 Certified: AWS Cloud Technical Essentials and Generative AI/LLM specialist via DeepLearning.AI.
 🏗 Philosophy: I focus on Clean Code, scalable architecture, and building automated systems that reduce manual overhead.
 
-**Find me on**: [LinkedIn]([url](https://www.linkedin.com/in/hafiza-amna/))  | Email: shafizaamna@gmail.com 
+**Find me on**: [LinkedIn]([https://www.linkedin.com/in/hafiza-amna/])  | Email: shafizaamna@gmail.com 
 
 ⚡ **Fun fact**: 
 🏀 Sporty at Heart: I enjoy staying active and love playing almost every kind of sport.
